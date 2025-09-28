@@ -11,8 +11,11 @@ Sou um(a) Desenvolvedor(a) [Sua Especialidade] apaixonado(a) por criar soluçõe
 - 📫 Como me encontrar: **[seu-email@exemplo.com]**
 - 😄 Pronouns: Ele/Dele ou Ela/Dela -->
 
+<!-- <p align="center">
+  <img src="studio-ghibli.jpg" width="800">
+</p> -->
 <p align="center">
-  <img src="studio-ghibli.jpg" width="600">
+  <img src="13lentes.jpeg" width="800">
 </p>
 
 <h1 align="center">Olá 👋, eu sou [Seu Nome]</h1>
