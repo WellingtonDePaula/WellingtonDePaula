@@ -12,7 +12,7 @@ Sou um(a) Desenvolvedor(a) [Sua Especialidade] apaixonado(a) por criar soluçõe
 - 😄 Pronouns: Ele/Dele ou Ela/Dela -->
 
 <p align="center">
-  <img src="13lentes.jpeg" width="800">
+  <img src="studio-ghibli.jpg" width="800">
 </p>
 
 <h1 align="center">Olá 👋, eu sou [Seu Nome]</h1>
