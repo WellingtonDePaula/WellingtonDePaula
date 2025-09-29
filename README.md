@@ -3,7 +3,6 @@
 </p>
 
 <h1 align="center">Oiii 👋, eu sou Wellington Zeitz de Paula</h1>
-<h3 align="center">Um Estudante do Brasil 🇧🇷</h3>
 
 ---
 
