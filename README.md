@@ -4,7 +4,7 @@
 </p>
 
 Sou um(a) Desenvolvedor(a) [Sua Especialidade] apaixonado(a) por criar soluções inovadoras e eficientes. Atualmente estou focado(a) em [Sua Tecnologia Principal].
-
+637x
 
 - 🔭 Atualmente trabalhando em... **[Nome do Projeto/Empresa]**
 - 🌱 Aprendendo sobre... **[Nova Tecnologia]**
@@ -15,7 +15,7 @@ Sou um(a) Desenvolvedor(a) [Sua Especialidade] apaixonado(a) por criar soluçõe
   <img src="studio-ghibli.jpg" width="800">
 </p> -->
 <p align="center">
-  <img src="13lentes.jpeg" width="800">
+  <img src="13lentes.png" width="800">
 </p>
 
 <h1 align="center">Olá 👋, eu sou [Seu Nome]</h1>
