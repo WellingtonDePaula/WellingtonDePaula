@@ -16,7 +16,7 @@
 
 ---
 
-<img align="right" src="frierenBolo.gif" alt="Gif de programador" width="200"/>
+<img align="right" src="frierenBeijo.gif" alt="Gif de programador" width="336"/>
 
 <h3 align="left">🚀 Tecnologias e Ferramentas:</h3>
 <p align="left">
@@ -25,6 +25,7 @@
   </a>
 </p>
 
+<br><br><br><br><br>
 
 ---
 
