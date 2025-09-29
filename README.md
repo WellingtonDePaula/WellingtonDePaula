@@ -1,29 +1,14 @@
-<!-- ## Hi there 👋
-<p align="">
-  <img src="13lentes.jpeg" alt="Imagem 13 lentes" width="300"/>
-</p>
-
-Sou um(a) Desenvolvedor(a) [Sua Especialidade] apaixonado(a) por criar soluções inovadoras e eficientes. Atualmente estou focado(a) em [Sua Tecnologia Principal].
-
-- 🔭 Atualmente trabalhando em... **[Nome do Projeto/Empresa]**
-- 🌱 Aprendendo sobre... **[Nova Tecnologia]**
-- 📫 Como me encontrar: **[seu-email@exemplo.com]**
-- 😄 Pronouns: Ele/Dele ou Ela/Dela -->
-
-<!-- <p align="center">
-  <img src="studio-ghibli.jpg" width="800">
-</p> -->
 <p align="center">
   <img src="13lentes.png" width="800">
 </p>
 
-<h1 align="center">Olá 👋, eu sou [Seu Nome]</h1>
-<h3 align="center">Um(a) [Sua Profissão] do Brasil 🇧🇷</h3>
+<h1 align="center">Olá 👋, eu sou Wellington Zeitz de Paula</h1>
+<h3 align="center">Um Estudante do Brasil 🇧🇷</h3>
 
 ---
 
 <p align="justify">
-  Sou um desenvolvedor apaixonado por tecnologia e programação. Tenho experiência em [mencione 2-3 tecnologias chave] e adoro transformar ideias em código. Atualmente, estou explorando o mundo de [mencione uma área de interesse, ex: Inteligência Artificial, Desenvolvimento Mobile].
+  Tenho 17 anos e sou um futuro desenvolvedor. Sempre fui apaixonado em jogos, sendo inclusive influenciado por eles a me situar no mundo da tecnologia, me possibilitando hoje, ser fascinado pela programação.Tenho certa experiência em C#, java e python e amo criar meus próprios projetos que me inspiram a continuar aflorando minha criatividade e conhecimento. Atualmente, estou explorando o mundo do desenvolvimento de jogos na Unity, mas sempre aberto a iniciar outros aprendizados. Dentre os meus jogos favoritos estão, Counter-Strike, Minecraft e Subnautica.
 </p>
 
 - 🔭 Atualmente estou trabalhando no projeto **[Dialog System🔗](https://github.com/WellingtonDePaula/DialogSystem)**.
