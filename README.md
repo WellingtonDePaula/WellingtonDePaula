@@ -2,18 +2,29 @@
   <img src="13lentes.png" width="800">
 </p>
 
-<h1 align="center">Olá 👋, eu sou Wellington Zeitz de Paula</h1>
+<h1 align="center">Oiii 👋, eu sou Wellington Zeitz de Paula</h1>
 <h3 align="center">Um Estudante do Brasil 🇧🇷</h3>
 
 ---
 
+<img align="right" src="frierenBeijo.gif" alt="Gif de programador" width="300" style="margin-left: 20px;"/>
+
 <p align="justify">
-  Tenho 17 anos e sou um futuro desenvolvedor. Sempre fui apaixonado em jogos, sendo inclusive influenciado por eles a me situar no mundo da tecnologia, me possibilitando hoje, ser fascinado pela programação.Tenho certa experiência em C#, java e python e amo criar meus próprios projetos que me inspiram a continuar aflorando minha criatividade e conhecimento. Atualmente, estou explorando o mundo do desenvolvimento de jogos na Unity, mas sempre aberto a iniciar outros aprendizados. Dentre os meus jogos favoritos estão, Counter-Strike, Minecraft e Subnautica.
+    Tenho 17 anos e sou um futuro desenvolvedor. Sempre fui apaixonado em jogos, sendo inclusive influenciado por eles a me situar no mundo da tecnologia, me possibilitando hoje, ser fascinado pela programação.Tenho certa experiência em C#, java e python e amo criar meus próprios projetos que me inspiram a continuar aflorando minha criatividade e conhecimento. Atualmente, estou explorando o mundo do desenvolvimento de jogos na Unity, mas sempre aberto a iniciar outros aprendizados. Dentre os meus jogos favoritos estão, Counter-Strike, Minecraft e Subnautica.
 </p>
 
-- 🔭 Atualmente estou trabalhando no projeto **[Dialog System🔗](https://github.com/WellingtonDePaula/DialogSystem)**.
+- 🚀 Atualmente estou trabalhando no projeto **[Dialog System🔗](https://github.com/WellingtonDePaula/DialogSystem)**.
+- 📚 Atualmente estou no 2º ano do **Técnico de Informática Integrado ao Ensino Médio** no **[IFC Campus Blumenau🔗](URL_DO_IFC_BLUMENAU)**.
+- 💻 Estou aprendendo mais sobre **Windows Forms** em **C#**, **.net Framework**, **Python**.
+
+<br clear="all"/>
+<!-- <p align="justify">
+  Tenho 17 anos e sou um futuro desenvolvedor. Sempre fui apaixonado em jogos, sendo inclusive influenciado por eles a me situar no mundo da tecnologia, me possibilitando hoje, ser fascinado pela programação.Tenho certa experiência em C#, java e python e amo criar meus próprios projetos que me inspiram a continuar aflorando minha criatividade e conhecimento. Atualmente, estou explorando o mundo do desenvolvimento de jogos na Unity, mas sempre aberto a iniciar outros aprendizados. Dentre os meus jogos favoritos estão, Counter-Strike, Minecraft, Subnautica e Terraria.
+</p>
+
+<!-- - 🔭 Atualmente estou trabalhando no projeto **[Dialog System🔗](https://github.com/WellingtonDePaula/DialogSystem)**.
 - 🎓 Atualmente estou no 2º ano do **Técnico de Informática Integrado ao Ensino Médio** no **[IFC Campus Blumenau🔗](URL_DO_IFC_BLUMENAU)**.
-- 🌱 Estou aprendendo mais sobre **Windows Forms** em **C#**, **.net Framework**, **Python**.
+- 🌱 Estou aprendendo mais sobre **Windows Forms** em **C#**, **.net Framework**, **Python**. --> -->
 
 ---
 
