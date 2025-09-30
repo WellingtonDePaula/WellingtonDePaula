@@ -10,7 +10,7 @@
     Tenho 17 anos e sou um futuro desenvolvedor. Sempre fui apaixonado em jogos, sendo inclusive influenciado por eles a me situar no mundo da tecnologia, me possibilitando hoje, ser fascinado pela programação.Tenho certa experiência em C#, java e python e amo criar meus próprios projetos que me inspiram a continuar aflorando minha criatividade e conhecimento. Atualmente, estou explorando o mundo do desenvolvimento de jogos na Unity, mas sempre aberto a iniciar outros aprendizados. Dentre os meus jogos favoritos estão, Counter-Strike, Minecraft e Subnautica.
 </p>
 
-- 🚀 Atualmente estou trabalhando no projeto **[Dialog System🔗](https://github.com/WellingtonDePaula/DialogSystem)**.
+- 🚀 Atualmente estou trabalhando no projeto **[Dialogue System🔗](https://github.com/WellingtonDePaula/DialogueSystem)**.
 - 📚 Atualmente estou no 2º ano do **Técnico de Informática Integrado ao Ensino Médio** no **[IFC Campus Blumenau🔗](URL_DO_IFC_BLUMENAU)**.
 - 💻 Estou aprendendo mais sobre **Windows Forms** em **C#**, **.net Framework**, **Python**.
 
