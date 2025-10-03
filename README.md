@@ -35,6 +35,8 @@
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonDePaula&layout=compact&langs_count=8&theme=dracula" alt="Top Linguagens" />
 </p>
 
+![Gráfico de Atividade do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=WellingtonDePaula&theme=github-compact)
+
 ---
 
 <h3 align="left">📬 Conecte-se comigo:</h3>
