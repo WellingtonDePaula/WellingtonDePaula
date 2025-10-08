@@ -21,7 +21,7 @@
 <h3 align="left">🚀 Tecnologias e Ferramentas:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,py,sqlite,mysql,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,py,sqlite,mysql,git,github,vscode,java,c#"/>
   </a>
 </p>
 
