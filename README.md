@@ -32,10 +32,8 @@
 ---
 
 <h3 align="left">📊 Minhas Estatísticas do GitHub:</h3>
-<p align="center">
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=WellingtonDePaula&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonDePaula&layout=compact&langs_count=8&theme=dracula" alt="Top Linguagens" />
-</p>
+
+![Minhas Linguagens](github-metrics.svg)
 
 ![Gráfico de Atividade do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=WellingtonDePaula&theme=github-compact)
 
