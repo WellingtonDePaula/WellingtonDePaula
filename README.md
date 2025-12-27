@@ -11,8 +11,8 @@
 </p>
 
 - 🚀 Atualmente estou trabalhando no projeto **[Dialogue System🔗](https://github.com/WellingtonDePaula/DialogueSystem)**.
-- 📚 Atualmente estou no 2º ano do **Técnico de Informática Integrado ao Ensino Médio** no **[IFC Campus Blumenau🔗](URL_DO_IFC_BLUMENAU)**.
-- 💻 Estou aprendendo mais sobre **Windows Forms** em **C#**, **.net Framework**, **Python**.
+- 📚 Atualmente estou no 3º ano do **Técnico de Informática Integrado ao Ensino Médio** no **[IFC Campus Blumenau🔗](URL_DO_IFC_BLUMENAU)**.
+- 💻 Ultimamente venho estudando a tecnologia **Netcode for GameObjects** na **Unity 6** para o desenvolvimento de jogos multiplayer online.
 
 ---
 
