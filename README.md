@@ -7,7 +7,7 @@
 ---
 
 <p align="justify">
-    Tenho 17 anos e sou um futuro desenvolvedor. Sempre fui apaixonado em jogos, sendo inclusive influenciado por eles a me situar no mundo da tecnologia, me possibilitando hoje, ser fascinado pela programação.Tenho certa experiência em C#, java e python e amo criar meus próprios projetos que me inspiram a continuar aflorando minha criatividade e conhecimento. Atualmente, estou explorando o mundo do desenvolvimento de jogos na Unity, mas sempre aberto a iniciar outros aprendizados. Dentre os meus jogos favoritos estão, Counter-Strike, Minecraft e Subnautica.
+    Tenho 17 anos e sou um futuro desenvolvedor. Sempre fui apaixonado em jogos, sendo inclusive influenciado por eles a me situar no mundo da tecnologia, me possibilitando hoje, ser fascinado pela programação. Tenho certa experiência em C#, java e python e amo criar meus próprios projetos que me inspiram a continuar aflorando minha criatividade e conhecimento. Atualmente, estou explorando o mundo do desenvolvimento de jogos na Unity, mas sempre aberto a iniciar outros aprendizados. Dentre os meus jogos favoritos estão, Counter-Strike, Minecraft e Subnautica.
 </p>
 
 - 🚀 Atualmente estou trabalhando no projeto **[Anger Fishing🔗](https://github.com/WellingtonDePaula/Anger-Fishing)**.
@@ -33,7 +33,7 @@
 
 <h3 align="left">📊 Minhas Estatísticas do GitHub:</h3>
 
-![Minhas Linguagens](github-metrics.svg)
+<!--![Minhas Linguagens](github-metrics.svg)-->
 
 ![Gráfico de Atividade do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=WellingtonDePaula&theme=github-compact)
 
