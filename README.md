@@ -20,12 +20,12 @@
 
 <table border="0">
   <tr>
-    <td width="60%">
+    <td width="50%">
       <h3>🚀 Tecnologias e Ferramentas:</h3>
       <img src="https://skillicons.dev/icons?i=js,html,css,py,sqlite,mysql,git,github,vscode,java,cs,unity" />
     </td>
-    <td width="40%" align="center">
-      <img src="frierenBeijo.gif" alt="Frieren" width="200"/>
+    <td width="50%" align="center">
+      <img src="frierenBeijo.gif" alt="Frieren" width="300"/>
     </td>
   </tr>
 </table>
