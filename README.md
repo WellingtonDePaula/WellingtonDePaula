@@ -35,17 +35,9 @@
 ### 📊 Estatísticas:
 
 <div align="left">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonDePaula&langs_count=7&theme=dracula" />
-      </td>
-      <td width="110"></td>
-      <td>
-        <img height="300em" src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyb2VnZXQxd2ozbGVnYm9rd3R0ejl0aGpqMGF3bzVpbmVreDQ1OHo3eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RGyUJwAFjP38P3uEiV/giphy.gif" />
-      </td>
-    </tr>
-  </table>
+  <img height="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonDePaula&langs_count=7&theme=dracula" alt="Github Stats"/>
+
+  <img height="300em" src="punpun.gif" alt="Punpun"/>
 </div>
 
 <br>
