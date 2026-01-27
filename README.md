@@ -4,48 +4,50 @@
 
 <h1 align="center">Oiii 👋, eu sou Wellington Zeitz de Paula</h1>
 
----
-
 <p align="justify">
-    Tenho 17 anos e sou um futuro desenvolvedor. Sempre fui apaixonado em jogos, sendo inclusive influenciado por eles a me situar no mundo da tecnologia, me possibilitando hoje, ser fascinado pela programação. Tenho certa experiência em C#, java e python e amo criar meus próprios projetos que me inspiram a continuar aflorando minha criatividade e conhecimento. Atualmente, estou explorando o mundo do desenvolvimento de jogos na Unity, mas sempre aberto a iniciar outros aprendizados. Dentre os meus jogos favoritos estão, Counter-Strike, Minecraft e Subnautica.
+  Tenho 17 anos e sou um futuro desenvolvedor. Sempre fui apaixonado por jogos, que me levaram ao mundo da tecnologia. Hoje, sou fascinado por programação, com experiência em <b>C#, Java e Python</b>. Atualmente, foco no desenvolvimento de jogos na <b>Unity</b>, explorando o mundo multiplayer.
 </p>
-
-- 🚀 Atualmente estou trabalhando no projeto **[Anger Fishing🔗](https://github.com/WellingtonDePaula/Anger-Fishing)**.
-- 📚 Atualmente estou no 3º ano do **Técnico de Informática Integrado ao Ensino Médio** no **[IFC Campus Blumenau🔗](URL_DO_IFC_BLUMENAU)**.
-- 💻 Ultimamente venho estudando a tecnologia **Netcode for GameObjects** na **Unity 6** para o desenvolvimento de jogos multiplayer online.
 
 ---
 
-<img align="right" src="frierenBeijo.gif" alt="Gif de programador" width="336"/>
-
-<h3 align="left">🚀 Tecnologias e Ferramentas:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,py,sqlite,mysql,git,github,vscode"/>
-    <br>
-    <img src="https://skillicons.dev/icons?i=java,c#"/>
-  </a>
-</p>
-
-<br><br><br><br><br><br>
+### 🚀 O que estou fazendo agora:
+- 🎣 Desenvolvendo o projeto **[Anger Fishing](https://github.com/WellingtonDePaula/Anger-Fishing)**.
+- 🎓 3º ano do Técnico de Informática no **[IFC Campus Blumenau](https://blumenau.ifc.edu.br/)**.
+- 🌐 Estudando **Netcode for GameObjects** na Unity 6 para jogos multiplayer.
+- 🎮 Favoritos: *Counter-Strike, Minecraft e Subnautica.*
 
 ---
 
-<h3 align="left">📊 Minhas Estatísticas do GitHub:</h3>
+<table border="0">
+  <tr>
+    <td width="60%">
+      <h3>🚀 Tecnologias e Ferramentas:</h3>
+      <img src="https://skillicons.dev/icons?i=js,html,css,py,sqlite,mysql,git,github,vscode,java,cs,unity" />
+    </td>
+    <td width="40%" align="center">
+      <img src="frierenBeijo.gif" alt="Frieren" width="200"/>
+    </td>
+  </tr>
+</table>
 
-<!--![Minhas Linguagens](github-metrics.svg)-->
+---
 
-![Gráfico de Atividade do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=WellingtonDePaula&theme=github-compact)
+### 📊 Estatísticas:
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonDePaula&layout=compact&langs_count=7&theme=dracula" />
+</div>
+
+<br>
+
+![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=WellingtonDePaula&theme=github-compact)
 
 ---
 
 <h3 align="left">📬 Conecte-se comigo:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/wellington-de-paula-93721b338" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:owellingtondepaula@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://instagram.com/owellz_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
+  <a href="https://www.linkedin.com/in/wellington-de-paula-93721b338"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:owellingtondepaula@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://instagram.com/owellz_"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 <p align="center">
