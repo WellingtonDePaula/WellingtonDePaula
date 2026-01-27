@@ -33,8 +33,19 @@
 ---
 
 ### 📊 Estatísticas:
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonDePaula&layout=compact&langs_count=7&theme=dracula" />
+
+<div align="left">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonDePaula&langs_count=7&theme=dracula" />
+      </td>
+      <td width="150"></td>
+      <td>
+        <img height="300em" src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyb2VnZXQxd2ozbGVnYm9rd3R0ejl0aGpqMGF3bzVpbmVreDQ1OHo3eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RGyUJwAFjP38P3uEiV/giphy.gif" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
