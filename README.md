@@ -10,18 +10,18 @@
 
 ---
 
-### 🚀 O que estou fazendo agora:
-- 🎣 Desenvolvendo o projeto **[Anger Fishing](https://github.com/WellingtonDePaula/Anger-Fishing)**.
+### O que estou fazendo agora:
+- Desenvolvendo o projeto **[Anger Fishing](https://github.com/WellingtonDePaula/Anger-Fishing)**.
 - 🎓 3º ano do Técnico de Informática no **[IFC Campus Blumenau](https://blumenau.ifc.edu.br/)**.
-- 🌐 Estudando **Netcode for GameObjects** na Unity 6 para jogos multiplayer.
-- 🎮 Favoritos: *Counter-Strike, Minecraft e Subnautica.*
+- Estudando **Netcode for GameObjects** na Unity 6 para jogos multiplayer.
+- Jogos Favoritos: *Counter-Strike, Minecraft e Subnautica.*
 
 ---
 
 <table border="0">
   <tr>
     <td width="50%">
-      <h3>🚀 Tecnologias e Ferramentas:</h3>
+      <h3>Tecnologias e Ferramentas:</h3>
       <img src="https://skillicons.dev/icons?i=js,html,css,py,sqlite,mysql,git,github,vscode,java,cs,unity" />
     </td>
     <td width="50%" align="center">
@@ -32,7 +32,7 @@
 
 ---
 
-### 📊 Estatísticas:
+### Estatísticas:
 
 <div align="left">
   <img height="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonDePaula&langs_count=7&theme=dracula" alt="Github Stats"/>
@@ -46,7 +46,7 @@
 
 ---
 
-<h3 align="left">📬 Conecte-se comigo:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/wellington-de-paula-93721b338"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:owellingtondepaula@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
