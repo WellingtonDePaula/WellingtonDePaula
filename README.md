@@ -13,7 +13,7 @@
 ### O que estou fazendo agora:
 - Desenvolvendo o projeto **[Anger Fishing](https://github.com/WellingtonDePaula/Anger-Fishing)**.
 - 🎓 3º ano do Técnico de Informática no **[IFC Campus Blumenau](https://blumenau.ifc.edu.br/)**.
-- Estudando **Netcode for GameObjects** na Unity 6 para jogos multiplayer.
+- Estudando **ASP.NET** para aplicações web.
 - Jogos Favoritos: *Counter-Strike, Minecraft e Subnautica.*
 
 ---
