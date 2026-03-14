@@ -11,7 +11,7 @@
 ---
 
 ### O que estou fazendo agora:
-- Desenvolvendo o projeto **[Anger Fishing](https://github.com/WellingtonDePaula/Anger-Fishing)**.
+- Desenvolvendo o projeto **[Fishing Game](https://github.com/WellingtonDePaula/Fishing-Game)**.
 - 🎓 3º ano do Técnico de Informática no **[IFC Campus Blumenau](https://blumenau.ifc.edu.br/)**.
 - Estudando **ASP.NET** para aplicações web.
 - Jogos Favoritos: *Counter-Strike, Minecraft e Subnautica.*
