@@ -5,7 +5,7 @@
 <h1 align="center">Oiii 👋, eu sou Wellington Zeitz de Paula</h1>
 
 <p align="justify">
-  Tenho 17 anos e sou um futuro desenvolvedor. Sempre fui apaixonado por jogos, que me levaram ao mundo da tecnologia. Hoje, sou fascinado por programação, com experiência em <b>C#, Java e Python</b>. Atualmente, foco no desenvolvimento de jogos na <b>Unity</b>, explorando o mundo multiplayer.
+  Tenho 18 anos e sou um futuro desenvolvedor. Sempre fui apaixonado por jogos, que me levaram ao mundo da tecnologia. Hoje, sou fascinado por programação, com experiência em <b>C#, Java e Python</b>. Atualmente, foco no desenvolvimento de jogos na <b>Unity</b>, explorando o mundo multiplayer.
 </p>
 
 ---
